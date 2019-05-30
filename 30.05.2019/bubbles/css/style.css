@@ -1,0 +1,9 @@
+body {
+  height: 5000px;
+}
+
+.little {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 100%;
+}
