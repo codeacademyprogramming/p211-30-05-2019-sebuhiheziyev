@@ -1,0 +1,83 @@
+.chat-alt {
+  background-color: green;
+  color: white;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  border-radius: 10px;
+  padding: 0px 10px;
+}
+.chat-alt i {
+  line-height: 40px;
+}
+.chat-logos span{
+  line-height: 40px;
+}
+img{
+  border-radius: 50%;
+  }
+h1{
+  line-height: 92px;
+  margin: 0px 20px;
+  line-height: 100px;
+}
+.style{
+  border-bottom: 1px solid rgb(63, 62, 62);
+  padding: 10px;
+}
+.chat-logos {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+.chat {
+  width: 500px;
+  height: 400px;
+  background-color: #0009;
+  margin: 25px auto;
+  border-radius: 10px;
+  overflow:scroll;
+}
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+.chat-head {
+  height: 40px;
+  background-color: green;
+  border-top-left-radius: 10px;
+  color: white;
+}
+.chat-head span {
+  line-height: 40px;
+}
+.chat-head i {
+  line-height: 40px;
+  padding-left: 10px;
+}
+.mesaje {
+  width: 500px;
+  height: 100px;
+  background-color: #0009;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+.text {
+  background-color:#666;
+  width: 85%;
+  height: 50px;
+  margin-left: 20px;
+  border: none;
+  
+}
+::placeholder {
+    color: #0009;
+  }
+.mesaje i {
+
+   margin-left: 10px;
+   color: white;
+   line-height: 100px;
+}
